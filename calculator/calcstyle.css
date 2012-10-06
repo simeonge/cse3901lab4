@@ -1,0 +1,49 @@
+div#grp {
+    width: 350px;
+    height: 400px;
+    background-color: lightgrey;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+/*table {
+    /*width: 300px;
+    /*height: 80px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    border-collapse: collapse;
+    border-spacing: 0;
+}*/
+
+tr, td {
+    border-collapse: collapse;
+    border: 0;
+    padding: 0px;
+    margin: 0px;
+}
+
+button {
+    width: 60px;
+    font-size: 25px;    
+}
+
+button#ent {
+    height: 76px;
+}
+
+button#nil {
+    width: 100%;
+}
+
+input {
+    width: 300px;
+    font-size: 25px;
+    text-align: right;
+    background: white;
+    border-radius: 5px;
+}
+
+p {
+    font-size: 12px;
+}
