@@ -6,7 +6,12 @@ div#grp { /* div that encompases everything */
     height: 400px;
     background-color: lightgrey;
     border-radius: 10px;
-    margin: 0 auto;
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    margin: auto;
 }
 
 tr, td { /* Remove borders and extra space */
